@@ -1,0 +1,5 @@
+# Project exclude paths
+/.venv/
+*.pyc
+db.sqlite3
+Task1.egg-info/
